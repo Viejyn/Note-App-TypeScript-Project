@@ -24,7 +24,7 @@
 
 ### 🌐 `Deploy`
 
-
+https://note-app-ts-vite.netlify.app/
 
 ### 🎥 `Screen`
 
